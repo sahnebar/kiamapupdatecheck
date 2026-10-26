@@ -1,0 +1,17 @@
+# Private Konfigurationen & Secrets
+.env
+config.json
+
+# Lokale Zustandsdatei (generiert beim Ausführen)
+kia_update_state.json
+
+# Logs
+*.log
+
+# Python Cache & virtuelle Umgebungen
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
